@@ -1,0 +1,6 @@
+{
+  "name": "Poptic Reply",
+  "description": "Saved reply assistant for small businesses with custom styled floating overlays, AI-powered automatic reply generators, and database persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
